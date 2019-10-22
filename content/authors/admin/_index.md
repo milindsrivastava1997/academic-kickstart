@@ -21,15 +21,15 @@ organizations:
 bio: My research interests include computer systems security.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computer systems security
 
 education:
   courses:
   - course: Dual Degree (B.Tech Hons + M.Tech) in Computer Science and Engineering
     institution: Indian Institute Of Technology Madras
     year: 2020
+    cgpa: 9.64
+    
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -67,6 +67,6 @@ user_groups:
 - Visitors
 ---
 
-Hi, I'm Milind! I'm a 5th year Dual Degree student in the Department of Computer Science and Engineering at Indian Institute Of Technology Madras. I am a part of the RISE lab and am advised by Prof. Chester Rebeiro.
+Hi, I'm Milind! I'm a 5th year Dual Degree student in the <a href="https://cse.iitm.ac.in">Department of Computer Science and Engineering</a> at Indian Institute Of Technology Madras. I am a part of the RISE lab and am advised by <a href="http://cse.iitm.ac.in/~chester">Prof. Chester Rebeiro.</a>
 
 I am looking for PhD positions. I have primarily worked in microarchitectural and hardware security but my interests lie in computer security across the stack from hardware to OS to software and networks.

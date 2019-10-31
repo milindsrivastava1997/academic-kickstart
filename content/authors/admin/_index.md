@@ -14,7 +14,11 @@ role: 5th year Dual Degree CSE student
 
 # Organizations/Affiliations
 organizations:
+<<<<<<< HEAD
 - name: Indian Institute of Technology Madras
+=======
+- name: Indian Institute Of Technology Madras
+>>>>>>> 71224cbbb304f431c71e57da08348504defd0f4e
   url: "https://www.iitm.ac.in"
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,7 +30,11 @@ interests:
 education:
   courses:
   - course: Dual Degree (B.Tech Hons + M.Tech) in Computer Science and Engineering
+<<<<<<< HEAD
     institution: Indian Institute of Technology Madras
+=======
+    institution: Indian Institute Of Technology Madras
+>>>>>>> 71224cbbb304f431c71e57da08348504defd0f4e
     year: 2020
     cgpa: 9.64
     
@@ -67,6 +75,12 @@ email: ""
 #- Visitors
 ---
 
+<<<<<<< HEAD
 Hi, I'm Milind! I'm a 5th year Dual Degree student in the <a href="https://cse.iitm.ac.in">Department of Computer Science and Engineering</a> at Indian Institute of Technology Madras. I am a part of the RISE lab and am advised by <a href="http://cse.iitm.ac.in/~chester">Prof. Chester Rebeiro.</a>
 
 I am looking for PhD positions. I have primarily worked in microarchitectural and hardware security but my interests lie in computer systems security across the stack from hardware to OS to software and networks.
+=======
+Hi, I'm Milind! I'm a 5th year Dual Degree student in the <a href="https://cse.iitm.ac.in">Department of Computer Science and Engineering</a> at Indian Institute Of Technology Madras. I am a part of the RISE lab and am advised by <a href="http://cse.iitm.ac.in/~chester">Prof. Chester Rebeiro.</a>
+
+I am looking for PhD positions. I have primarily worked in microarchitectural and hardware security but my interests lie in computer security across the stack from hardware to OS to software and networks.
+>>>>>>> 71224cbbb304f431c71e57da08348504defd0f4e

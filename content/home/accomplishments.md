@@ -36,6 +36,7 @@ date_format = "2006"
   certificate_url = ""
   date_start = "2018-05-17"
   date_end = ""
+<<<<<<< HEAD
   description = ""
 
 [[item]]
@@ -87,4 +88,8 @@ date_format = "2006"
   date_start = "2011-01-01"
   date_end = ""
   description = ""
+=======
+  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  
+>>>>>>> 71224cbbb304f431c71e57da08348504defd0f4e
 +++

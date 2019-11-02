@@ -5,11 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-<<<<<<< HEAD
 title = "Research Internships"
-=======
-title = "Professional Experience"
->>>>>>> 71224cbbb304f431c71e57da08348504defd0f4e
 subtitle = ""
 
 # Date format for experience
@@ -58,16 +54,11 @@ date_format = "Jan 2006"
   company_url = "https://www.microsoft.com/en-us/research/lab/microsoft-research-india/"
   location = "Bangalore"
   date_start = "2017-12-18"
-<<<<<<< HEAD
   date_end = "2017-12-31"
-=======
-  date_end = "2018-01-12"
->>>>>>> 71224cbbb304f431c71e57da08348504defd0f4e
   description = """
   * Worked on integrating ML libaries with custom C++ BLAS implementation
   """
 
-<<<<<<< HEAD
 #[[experience]]
 #  title = "Software Engineering Intern"
 #  company = "Maximl Labs"
@@ -105,44 +96,4 @@ date_format = "Jan 2006"
 #  description = """
 #  * Developed end-to-end web app which integrated with Google Calendar API
 #  """
-=======
-[[experience]]
-  title = "Software Engineering Intern"
-  company = "Maximl Labs"
-  company_url = "https://maximl.com"
-  location = "Chennai"
-  date_start = "2017-05-15"
-  date_end = "2017-07-28"
-  description = """
-  * Developed task library to handle large industrial projects with complicated dependencies
-  * Implemented CPM algorithm to generate optimized project schedules
-  * Developed heuristic to evaluate and plot parallelism in a project plan
-  * Involved in re-architecture of core product to enable plugin based system
-  * Contributed to trial deployments in Tata Steel
-  """
-
-[[experience]]
-  title = "Software Engineering Intern"
-  company = "Indian Institute Of Technology Madras (Prof. Rupesh Nasre)"
-  company_url = "http://cse.iitm.ac.in/~rupesh"
-  location = "Chennai"
-  date_start = "2016-12-01"
-  date_end = "2016-12-31"
-  description = """
-  * Implemented 3 image segmentation algorithms - Connected Component Labelling, Min Cut, Minimum Spanning Tree
-  and compared time complexities
-  """
-
-[[experience]]
-  title = "Software Engineering Intern"
-  company = "Zamono Tech LLC"
-  company_url = "https://zamono.com"
-  location = "Remote"
-  date_start = "2015-06-01"
-  date_end = "2016-07-31"
-  description = """
-  * Developed end-to-end web app which integrated with Google Calendar API
-  """
->>>>>>> 71224cbbb304f431c71e57da08348504defd0f4e
-
 +++

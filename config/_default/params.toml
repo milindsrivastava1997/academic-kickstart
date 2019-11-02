@@ -91,11 +91,7 @@ email = "milind@cse.iitm.ac.in"
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
 # address = {street = "450 Serra Mall", city = "Stanford", region = "CA", postcode = "94305", country = "United States", country_code = "US"}
-<<<<<<< HEAD
 address = {street = "RISE Lab, Department of Computer Science and Engineering, Indian Institute of Technology Madras", city = "Chennai", postcode = "600036", country = "India", country_code = "IN"}
-=======
-address = {street = "RISE Lab, Department Of Computer Science and Engineering, Indian Institute Of Technology Madras", city = "Chennai", postcode = "600036", country = "India", country_code = "IN"}
->>>>>>> 71224cbbb304f431c71e57da08348504defd0f4e
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.

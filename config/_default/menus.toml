@@ -9,29 +9,24 @@
   weight = 10
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "News"
+  url = "#news"
   weight = 20
 
-[[main]]
-<<<<<<< HEAD
-  name = "Publications"
-  url = "#publications"
-  weight = 30
+#[[main]]
+#  name = "Publications"
+#  url = "#publications"
+#  weight = 30
 
 [[main]]
   name = "Internships"
   url = "#experience"
-=======
-  name = "Experience"
-  url = "#experience"
   weight = 30
 
-[[main]]
-  name = "Publications"
-  url = "#publications"
->>>>>>> 71224cbbb304f431c71e57da08348504defd0f4e
-  weight = 40
+#[[main]]
+#  name = "Publications"
+#  url = "#publications"
+#  weight = 40
 
 [[main]]
   name = "Accomplishments"

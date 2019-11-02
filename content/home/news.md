@@ -15,7 +15,7 @@ title = "News"
 
 +++
 
--   **Oct 2019**: "Solomon" has been accepted at **DATE 2019**
+-   **Oct 2019**: "Solomon" has been accepted at **DATE 2020**
 
 -   **Sep 2019**: Work accepted for presentation at the **ACM SRC** (Student Research Competition) at **ICCAD 2019**
 

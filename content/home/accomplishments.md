@@ -19,6 +19,17 @@ date_format = "2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "ACM SIGDA"
+  organization_url = "https://www.sigda.org/sigda-events/src/"
+  title = "1st Place at ACM SRC @ ICCAD 2019"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-11-17"
+  date_end = ""
+  description = "Awarded 1st place in undergraduate category at ACM Student Research Competition (SRC) held at ICCAD 2019"
+
+
+[[item]]
   organization = "Indo US Science and Technology Forum"
   organization_url = "https://www.iusstf.org/program/sn-bose-scholars-program"
   title = "S.N. Bose Scholarship"

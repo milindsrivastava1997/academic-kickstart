@@ -14,6 +14,9 @@ title = "News"
 
 
 +++
+
+-   **Nov 2019**: Our team has been awarded the **1st place** in the Embedded Security Challenge in CSAW 2019 
+
 -   **Nov 2019**: Awarded **1st place** in the undergraduate category at the ACM Student Research Competition (SRC) @ ICCAD 2019
 
 -   **Oct 2019**: "Solomon" has been accepted at **DATE 2020**

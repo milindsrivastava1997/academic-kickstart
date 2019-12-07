@@ -8,4 +8,6 @@ publication = "Design, Automation and Test in Europe 2020"
 publication_short = "DATE 2020"
 
 authors = ["Milind Srivastava", "Patanjali SLPSK", "Indrani Roy", "Chester Rebeiro", "Aritra Hazra", "Swarup Bhunia"]
+
+url_preprint = "files/solomon_preprint.pdf"
 +++

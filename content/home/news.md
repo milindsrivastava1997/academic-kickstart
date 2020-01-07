@@ -15,6 +15,8 @@ title = "News"
 
 +++
 
+-   **Jan 2020**: Paper accepted at **MobiCom 2020**
+
 -   **Nov 2019**: Our team has been awarded the **1st place** in the Embedded Security Challenge in CSAW 2019 
 
 -   **Nov 2019**: Awarded **1st place** in the undergraduate category at the ACM Student Research Competition (SRC) @ ICCAD 2019
@@ -25,6 +27,6 @@ title = "News"
 
 -   **May 2019**: Awarded the prestigious **SN Bose Scholarship**. Will be interning with **Prof. Swarun Kumar, CMU** over the summer
 
--   **Jul 2019**: Our paper has been accepted at **SocInfo 2019**
+-   **Jul 2019**: Paper accepted at **SocInfo 2019**
 
 -   **May 2018**: Accepted as a research intern at **Adobe Research**
